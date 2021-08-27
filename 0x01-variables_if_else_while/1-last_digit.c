@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
 /*
- *main-starting
+ * main- starting
  *
- *Descriptions: some ambigious and Complex stuff
+ * Descriptions: some ambigious and Complex stuff
  */
 int main(void)
 {
