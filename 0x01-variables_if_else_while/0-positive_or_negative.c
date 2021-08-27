@@ -2,9 +2,10 @@
 #include <stdio.h>
 #include <time.h>
 /*
+ * main- main
+ *
  * Descriptions: Checking the positivity of a Number
  */
-
 int main(void)
 {
 	int n;
@@ -17,6 +18,6 @@ int main(void)
 	else if (n == 0)
 	  printf("%d is zero\n", n);
 	else
-	    printf("%d is positive\n", n);
+	  printf("%d is positive\n", n);
 	return (0);
 	}
