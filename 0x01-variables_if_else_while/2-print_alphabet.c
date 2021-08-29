@@ -8,11 +8,11 @@
  * Return: return the letter
  */
 
-int main()
+int main(void)
 {
 char letter = 'a';
 
 putchar(letter);
 putchar ('\n');
-return(0);
+return (0);
 }
