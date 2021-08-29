@@ -12,6 +12,6 @@ int main()
 {
 char letter = 'a';
 
-putchar('%d\n', letter);
+putchar(letter'\n');
 return(0);
 }
