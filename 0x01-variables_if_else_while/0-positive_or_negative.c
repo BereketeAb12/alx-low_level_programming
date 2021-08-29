@@ -2,11 +2,11 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * main- main
+ * main - main
  *
- * Descriptions: Checking the positivity of a Number
+ * Description: Checking the positivity of a Number
  *
- * return- returns the letter
+ * Return: returns the letter
  */
 int main(void)
 {
