@@ -10,7 +10,7 @@
 
 int main(void)
 {
-char letter = 'abcdefghijklmnopqrstuvwxyz';
+string letter = 'abcdefghijklmnopqrstuvwxyz';
 
 putchar(letter);
 putchar ('\n');
