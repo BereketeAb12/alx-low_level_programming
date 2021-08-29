@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/*
+/**
  * main- main
  *
  * Descriptions: Checking the positivity of a Number
