@@ -5,6 +5,8 @@
  * main- main
  *
  * Descriptions: Checking the positivity of a Number
+ *
+ * return- returns the letter
  */
 int main(void)
 {
