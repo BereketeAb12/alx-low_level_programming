@@ -12,7 +12,7 @@ int main()
 {
 char letter = 'a';
 
-putchar(letter)
-putchar('\n');
+putchar(letter);
+putchar ('\n');
 return(0);
 }
