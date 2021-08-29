@@ -3,14 +3,15 @@
 /**
  * main - printing a lowercase
  *
- * @char - obtaining a letter
+ * @letter - obtaining a letter
  *
  * Return: return the letter
  */
 
 int main()
 {
-char = 'a';
-putchar(char'\n');
+char letter = 'a';
+
+putchar('%d\n', letter);
 return(0);
 }
