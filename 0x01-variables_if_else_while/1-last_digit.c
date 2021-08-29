@@ -23,7 +23,7 @@ srand(time(0));
 	{
 	printf("Last digit of %d is %d and is lesser than 6 and not 0 0\n", n, lstD);
 	}
-	else if (n == 0)
+	else
 	{
 	printf("Last digit of %d is %d and is 0\n", n, lstD);
 	}
