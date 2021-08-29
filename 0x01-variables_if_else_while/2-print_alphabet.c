@@ -12,7 +12,6 @@ int main(void)
 {
 char letter = 'a';
 
-for (letter = 'a'; letter <= 'z'; ch++)
 putchar(letter);
 putchar ('\n');
 return (0);
