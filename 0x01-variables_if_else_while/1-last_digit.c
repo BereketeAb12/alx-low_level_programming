@@ -11,7 +11,7 @@ int main(void)
 {
 int n;
 int lstD;
-lstD = int n % 10; /*Finding last digit*/
+lstD = n % 10; /*Finding last digit*/
 
 srand(time(0));
 	n = rand() - RAND_MAX / 2;
