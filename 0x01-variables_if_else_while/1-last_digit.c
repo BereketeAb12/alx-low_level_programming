@@ -10,8 +10,7 @@
 int main(void)
 {
 int n;
-int lstD;
-lstD = n % 10; /*Finding last digit*/
+int lstD = n % 10; /*Finding last digit*/
 
 srand(time(0));
 	n = rand() - RAND_MAX / 2;
