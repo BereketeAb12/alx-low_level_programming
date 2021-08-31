@@ -7,8 +7,8 @@
  * Return: 0
  */
 
-int main ()
+int main()
 {
-printf("Holberon\n");
+puts("Holberon\n");
 return (0);
 }
