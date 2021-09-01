@@ -5,14 +5,17 @@
  *
  * @letter - obtaining a letter
  *
+ * Description: letter array printing
+ *
  * Return: return the letter
  */
 
 int main(void)
 {
-char letter = 'a';
-
-putchar(letter);
-putchar ('\n');
+int i;
+for (i == 'a'; i <= 'z'; i++)
+{
+putchar(i);
+}
 return (0);
 }
