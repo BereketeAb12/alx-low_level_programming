@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-char c = 'A';
+int c = 'A';
 _isupper(c);
 return (0);
 }
