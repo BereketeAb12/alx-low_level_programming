@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>
+#include "main.h"
 /**
  * main- checking uppercase
  *
@@ -7,13 +7,9 @@
  *
  * Return: 0 or 1
  */
-int _isupper(int c)
+int main(void)
 {
-int c = 'A';
-if (isupper(c))
-{
-return (1);
-}
-else
+char c = 'A';
+_isupper(c);
 return (0);
 }
