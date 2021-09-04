@@ -1,15 +1,22 @@
 #include <stdio.h>
-#include "main.h"
+#include <ctype.h>
 /**
- * main- checking uppercase
+ * _isupper- checking uppercase
  *
  * Description: check Check
  *
  * Return: 0 or 1
  */
-int main(void)
+
+int _isupper(void)
 {
-int c = 'A';
-_isupper(c);
+int c;
+if (isupper(c))
+{
+return (1);
+}
+else
+{
 return (0);
+}
 }
