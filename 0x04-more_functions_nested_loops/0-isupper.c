@@ -10,8 +10,8 @@
 
 int _isupper(void)
 {
-int c;
-if (isupper(c))
+char A;
+if (isupper(A))
 {
 return (1);
 }
