@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /* 
  * main - returning hol with new line
  *
@@ -9,6 +10,5 @@
 
 int main()
 {
-puts("Holberon\n");
-return (0);
+  _putchar();
 }
