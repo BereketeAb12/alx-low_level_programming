@@ -11,11 +11,12 @@
  */
 int main(void)
 {
-  char c[10] = "Holberton\n";
-  int i;
-  for(i = 0; i <= 10; i++)
-    {
-      _putchar(c[i]); 
-    }
-  return (0);
+char c[9] = "_putchar\n";
+int i;
+
+for (i = 0; i <= 9; i++)
+{
+_putchar(c[i]);
+}
+return (0);
 }
