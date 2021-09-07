@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main: Holberton short description on 
+ * main: Holberton short description on
  * the function main
  *
  * _putchar: character
