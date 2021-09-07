@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main: Holberton
+ * main: Holberton short description on 
+ * the function main
  *
  * _putchar: character
  *
@@ -11,10 +12,10 @@
  */
 int main(void)
 {
-char c[9] = "_putchar\n";
+char c[8] = "_putchar\n";
 int i;
 
-for (i = 0; i <= 9; i++)
+for (i = 0; i <= 8; i++)
 {
 _putchar(c[i]);
 }
