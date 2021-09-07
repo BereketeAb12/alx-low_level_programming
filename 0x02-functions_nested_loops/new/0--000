@@ -1,0 +1,16 @@
+/**
+ * _putchar: write a function
+ *
+ * Description: IDK
+ *
+ * Return: 0
+ *
+ */
+#include <stdio.h>
+#include <unistd.h>
+
+int _putchar(void)
+{
+write(int c, "_putchar\n", 9);
+return (0);
+}

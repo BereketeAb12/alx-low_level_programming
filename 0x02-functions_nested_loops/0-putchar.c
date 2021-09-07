@@ -1,15 +1,21 @@
-#include <stdio.h>
 #include "main.h"
-/* 
- * main - returning hol with new line
+/**
+ * main: Holberton
  *
- * Description: main
+ * _putchar: character
+ *
+ * Descriptin: print
  *
  * Return: 0
+ *
  */
-
 int main(void)
 {
-_putchar();
-return(0);
+  char c[10] = "Holberton\n";
+  int i;
+  for(i = 0; i <= 10; i++)
+    {
+      _putchar(c[i]); 
+    }
+  return (0);
 }

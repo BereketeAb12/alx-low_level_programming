@@ -10,13 +10,18 @@
 
 int _isupper(void)
 {
-char A;
-if (isupper(A))
+if (isupper(c))
 {
+putchar(c);
+putchar(':');
+putchar(' ');
 return (1);
 }
 else
 {
+putchar(c);
+putchar(':');
+putchar(' ');
 return (0);
 }
 }
