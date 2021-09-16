@@ -1,5 +1,7 @@
 #include "main.h"
 /**
+ * main is a fxn
+ *
  * main: Holberton short description on
  * the function main
  *
